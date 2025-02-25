@@ -5,5 +5,5 @@ Instale dentro do seu projeto manualmente e utilize as versões daqui para padro
 Importe as funções:
 
 ```sh
-import { APIWrapper, SCOFunctions, SCOApp } from "./src/assets/SCORMFunctions/index.js";
+import { APIWrapper, SCOFunctions, SCOApp } from "./src/assets/scorm-toolkit-esm/index.js";
 ```
